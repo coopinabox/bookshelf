@@ -14,5 +14,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/holonomy/bookshelfw/issues"
+  },
+  "dependencies": {
+    "bookshelf": "*"
   }
 }
