@@ -1,22 +1,22 @@
 {
-  "name": "bookshelfw",
-  "version": "0.0.0",
-  "description": "holonomy wrapper for bookshelf",
+  "name": "ciab-bookshelf",
+  "version": "0.6.8",
+  "description": "coopinabox wrapper for bookshelf",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/holonomy/bookshelfw.git"
+    "url": "git://github.com/coopinabox/bookshelf.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/holonomy/bookshelfw/issues"
+    "url": "https://github.com/coopinabox/bookshelf/issues"
   },
   "dependencies": {
-    "bookshelf": "*",
+    "bookshelf": "^0.6.8",
     "sqlite3": "*"
   }
 }
