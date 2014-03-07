@@ -1,7 +1,7 @@
 {
   "name": "ciab-bookshelf",
-  "version": "0.6.8",
-  "description": "coopinabox wrapper for bookshelf",
+  "version": "0.1.0",
+  "description": "Coop-in-a-Box wrapper for bookshelf",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git://github.com/coopinabox/bookshelf.git"
   },
   "author": "",
-  "license": "MIT",
+  "license": "AGPLv3",
   "bugs": {
     "url": "https://github.com/coopinabox/bookshelf/issues"
   },
