@@ -28,7 +28,7 @@ switch (env) {
 
 // export config
 module.exports = {
-  directory: __dirname + "/../../migrations",
+  directory: "./migrations",
   tableName: "db_migrations",
   database: database,
 };
