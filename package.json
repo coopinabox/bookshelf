@@ -1,6 +1,6 @@
 {
   "name": "ciab-bookshelf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Coop-in-a-Box wrapper for bookshelf",
   "main": "index.js",
   "scripts": {
